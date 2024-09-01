@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462837425681",
+    "project_id": "hydratex-c8183",
+    "storage_bucket": "hydratex-c8183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462837425681:android:1f08efaaeaacf7141bf3b0",
+        "android_client_info": {
+          "package_name": "com.hydratex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbORa_5vVgvXIFAKHr1f3jkpdaRhrhjuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
